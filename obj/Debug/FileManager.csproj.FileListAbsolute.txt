@@ -1,0 +1,6 @@
+E:\School\Code Practice\C#\File Manager\FileManager\bin\Debug\FileManager.exe
+E:\School\Code Practice\C#\File Manager\FileManager\bin\Debug\FileManager.pdb
+E:\School\Code Practice\C#\File Manager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\School\Code Practice\C#\File Manager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\School\Code Practice\C#\File Manager\FileManager\obj\Debug\FileManager.exe
+E:\School\Code Practice\C#\File Manager\FileManager\obj\Debug\FileManager.pdb
